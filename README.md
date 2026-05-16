@@ -6,7 +6,7 @@ This repository contains a Hubitat Rule Machine automation designed to intellige
 
 The purpose of this main rule is to brighten front outdoor lights when motion is detected at the driveway or front door during overnight hours, and automatically return them to a dim ambient state (or turn them off) after motion stops. 
 
-![Hubitat Rule Layout](RuleMachine.jpg)
+![Hubitat Rule Layout](RuleMachine.JPG)
 
 Additionally, it features a built-in seasonal override: if specific Christmas light switches are active, the regular motion automation is suppressed to prevent clashing with your holiday display.
 
